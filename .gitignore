@@ -159,9 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
-_00_data
-_00_data/*
-_00_data/data.zip
 _01_code/_10_object_detection/YOLO/yolo_v1.tar
 
 *.tar
